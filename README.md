@@ -5,7 +5,7 @@ Temporary deprecation:
 
 wow.js is temporarily deprecated in favour of AOS (Animate on Scroll). Feel free to ignore the warning if you can't use AOS.
 
-Plans for 3.0 include:
+Plans for 3.0 include:ashu
 
 * Breaking out the shims into an optional module
 * Using the AOS approach for most functionality
